@@ -82,7 +82,7 @@ A machine learning-based web application to predict the 10-year risk of coronary
 
 ---
 
-## 📝 To Train Model Yourself
+## 📝 To Train Model 
 
 Use this structure:
 
