@@ -4,13 +4,13 @@ A machine learning-based web application to predict the 10-year risk of coronary
 
 ---
 
-<img width="938" alt="App Screenshot" src="https://github.com/user-attachments/assets/your-screenshot-image-if-any" />
+<img width="949" alt="Image" src="https://github.com/user-attachments/assets/f62c75ea-152e-4065-8d6b-b9a86c900113" />
 
 ---
 
 ## 📊 Dataset
 
-* **Source**: [Framingham Heart Study Dataset](https://www.kaggle.com/datasets/amanajmera1/framingham-heart-study-dataset)
+* **Source**: https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset
 * Predicts whether a patient will develop CHD within 10 years.
   
 * **Features used**:
